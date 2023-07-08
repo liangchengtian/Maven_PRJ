@@ -9,5 +9,6 @@ public class Client {
         SingletonLacy instance3 = SingletonLacy.Holder.INSTANCE;
 
         System.out.println(instance2==instance3);
+        System.out.println(instance2==instance3);
     }
 }
