@@ -1,4 +1,4 @@
-package com.fiveset.design_pattern;
+package com.fiveset.design_pattern.singleton;
 
 public class SingletonLacy {
     private SingletonLacy() {}

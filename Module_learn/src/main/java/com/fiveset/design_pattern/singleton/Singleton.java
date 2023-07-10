@@ -1,4 +1,4 @@
-package com.fiveset.design_pattern;
+package com.fiveset.design_pattern.singleton;
 
 public class Singleton {
     //私有化构造方法，禁止被外界创建

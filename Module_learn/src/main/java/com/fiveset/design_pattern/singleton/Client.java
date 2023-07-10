@@ -1,4 +1,4 @@
-package com.fiveset.design_pattern;
+package com.fiveset.design_pattern.singleton;
 
 public class Client {
     public static void main(String[] args) {
@@ -10,5 +10,4 @@ public class Client {
 
         System.out.println(instance2==instance3);
     }
-
 }
