@@ -6,6 +6,7 @@
       <list>
         <option value="$PROJECT_DIR$/Module_learn/pom.xml" />
         <option value="$PROJECT_DIR$/Module_code/pom.xml" />
+        <option value="$PROJECT_DIR$/fiveset_springboot/pom.xml" />
       </list>
     </option>
   </component>
